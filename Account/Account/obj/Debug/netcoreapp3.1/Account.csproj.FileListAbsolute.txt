@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Account\Account\bin\Debug\netcoreapp3.1\Account.exe
+C:\Users\User\source\repos\Account\Account\bin\Debug\netcoreapp3.1\Account.deps.json
+C:\Users\User\source\repos\Account\Account\bin\Debug\netcoreapp3.1\Account.runtimeconfig.json
+C:\Users\User\source\repos\Account\Account\bin\Debug\netcoreapp3.1\Account.runtimeconfig.dev.json
+C:\Users\User\source\repos\Account\Account\bin\Debug\netcoreapp3.1\Account.dll
+C:\Users\User\source\repos\Account\Account\bin\Debug\netcoreapp3.1\Account.pdb
+C:\Users\User\source\repos\Account\Account\obj\Debug\netcoreapp3.1\Account.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Account\Account\obj\Debug\netcoreapp3.1\Account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfo.cs
+C:\Users\User\source\repos\Account\Account\obj\Debug\netcoreapp3.1\Account.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Account\Account\obj\Debug\netcoreapp3.1\Account.dll
+C:\Users\User\source\repos\Account\Account\obj\Debug\netcoreapp3.1\Account.pdb
+C:\Users\User\source\repos\Account\Account\obj\Debug\netcoreapp3.1\Account.genruntimeconfig.cache
