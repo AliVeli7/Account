@@ -7,7 +7,7 @@ namespace Casting
         static void Main(string[] args)
         {
             
-            int a = 31;
+            int a = 37;
             Console.WriteLine(a.IsPrime());
             string word = "hello HoW Are you?";
             
