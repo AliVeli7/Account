@@ -1,0 +1,14 @@
+C:\Users\Ali\source\repos\App\App\bin\Debug\netcoreapp3.1\CourseManagmentApplication.exe
+C:\Users\Ali\source\repos\App\App\bin\Debug\netcoreapp3.1\CourseManagmentApplication.deps.json
+C:\Users\Ali\source\repos\App\App\bin\Debug\netcoreapp3.1\CourseManagmentApplication.runtimeconfig.json
+C:\Users\Ali\source\repos\App\App\bin\Debug\netcoreapp3.1\CourseManagmentApplication.runtimeconfig.dev.json
+C:\Users\Ali\source\repos\App\App\bin\Debug\netcoreapp3.1\CourseManagmentApplication.dll
+C:\Users\Ali\source\repos\App\App\bin\Debug\netcoreapp3.1\CourseManagmentApplication.pdb
+C:\Users\Ali\source\repos\App\App\obj\Debug\netcoreapp3.1\CourseManagmentApplication.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\App\App\obj\Debug\netcoreapp3.1\CourseManagmentApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\App\App\obj\Debug\netcoreapp3.1\CourseManagmentApplication.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\App\App\obj\Debug\netcoreapp3.1\CourseManagmentApplication.AssemblyInfo.cs
+C:\Users\Ali\source\repos\App\App\obj\Debug\netcoreapp3.1\CourseManagmentApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\App\App\obj\Debug\netcoreapp3.1\CourseManagmentApplication.dll
+C:\Users\Ali\source\repos\App\App\obj\Debug\netcoreapp3.1\CourseManagmentApplication.pdb
+C:\Users\Ali\source\repos\App\App\obj\Debug\netcoreapp3.1\CourseManagmentApplication.genruntimeconfig.cache
